@@ -1,0 +1,124 @@
+@media only screen and (max-width: 1140px) {
+  .row {
+    padding: 0rem 15rem;
+  }
+}
+@media only screen and (max-width: 980px) {
+  .sec-3 .section .span_1_of_4 {
+    width: 49.2%;
+    padding: 10rem 25rem;
+  }
+  .sec-2 .section {
+    width: 100%;
+    text-align: center;
+  }
+  .sec-2 .section .span_1_of_4 {
+    width: 47.6%;
+    padding: 25px;
+    margin-left: 2%;
+  }
+  .sec-4 {
+    width: 100%;
+  }
+  .sec-4 .row > .text {
+    padding: 20px 60px; 
+  } 
+  .sec-4 .span_1_of_4 {
+    width: 49.2%;
+  }
+}
+@media only screen and (max-width: 940px) {
+  .navclass .ul {
+    display: none;
+  }
+
+  .bars {
+    display: block !important;
+  }
+}
+
+
+@media only screen and (max-width: 768px) {
+  .sec-5 .span_1_of_2 {
+    padding: 10px;
+  }
+  .sec-6 .section .col {
+    margin: 20px 0px;
+  }
+  .sec-6 .section .section .col {
+    width: 100%;
+    text-align: center;
+    padding: 0px 10px;
+  }
+  .sec-6 .section .section .col .quot , .sec-6 .section .section .col .name , .sec-6 .section .section .col .post {
+    text-align: center;
+  }
+  h1 {
+    font-size: 32rem  !important;
+  }
+}
+
+@media only screen and (max-width: 740px) {
+  .social-section ul li {
+    margin: 0rem 7rem;
+  }
+  .social-section ul li a {
+    font-size: 16rem;
+  }
+}
+
+@media only screen and (max-width: 737px) and (min-width: 596px) {
+  .sec-2 .section .span_1_of_4 {
+    width: 100%;
+    padding: 25px;
+    margin: 0 auto;
+  }
+  .sec-2 .section {
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 564px) and (min-width: 481px) {
+
+  .sec-2 .section .span_1_of_4 {
+    width: 100%;
+
+  }
+}
+
+@media only screen and (max-width: 574px) and (min-width: 481px) {
+  .sec-5 .col {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 515px) {
+  .sec-3 .span_1_of_4 {
+    width: 100% !important;
+  }
+}
+
+
+@media only screen and (max-width: 480px) {
+  .sec-2 .span_1_of_4 {
+    width: 100% !important;
+  }
+  .heading {
+    font-size: 30rem;
+  }
+  .social-section ul li {
+    margin: 0rem 5rem;
+  }
+  .social-section ul li a {
+    font-size: 16rem;
+  }
+  .sec-4 .span_1_of_4 {
+    width: 100% !important;
+  }
+}
+
+@media only screen and (max-width: 370px) {
+  .portfolio-btn-section button {
+    padding: 5rem 12rem;
+    margin-bottom: 15px;
+  }
+}
